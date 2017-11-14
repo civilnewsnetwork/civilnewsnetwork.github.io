@@ -95,7 +95,7 @@ h1 {
   color:#093145;
   font-family: 'Montserrat', sans-serif;
   font-size: 4em;
-  max-width:900px;
+  max-width:700px;
   margin: 0 auto;
   padding-top:100px;
   
@@ -103,7 +103,7 @@ h1 {
 .container p {
   color:#093145;
   padding-top:25px;
-  max-width: 900px;
+  max-width: 700px;
   margin: 0 auto;
   word-spacing: 3px;
   line-height: 50px;
