@@ -94,10 +94,10 @@ h1 {
 .container h1 {
   color:#093145;
   font-family: 'Montserrat', sans-serif;
-  font-size: 4em;
+  font-size: 3em;
   max-width: 650px;
   margin: 0 auto;
-  padding-top:100px;
+  padding-top: 100px;
   
 }
 .container p {
@@ -106,7 +106,7 @@ h1 {
   max-width: 650px;
   margin: 0 auto;
   word-spacing: 3px;
-  line-height: 50px;
-  font-size:1.2em;
+  line-height: 30px;
+  font-size:1.4em;
   font-family: 'Merriweather', serif;
 }
