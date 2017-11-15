@@ -102,6 +102,7 @@ h1 {
   
 }
 .container p {
+  width:100%;
   color:#093145;
   padding-top:25px;
   max-width: 650px;
