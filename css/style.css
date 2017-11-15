@@ -86,7 +86,6 @@ h1 {
   margin-bottom: 1em;
 }
 .container {
-  width: 100%;
   height: 105%;
   background: #fff;
   z-index: 1;
@@ -102,7 +101,6 @@ h1 {
   
 }
 .container p {
-  width:100%;
   color:#093145;
   padding-top:25px;
   max-width: 650px;
